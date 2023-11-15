@@ -1,3 +1,7 @@
+
+body{
+    background: linear-gradient(to bottom, #1d97cf 0%,#3419bd 21%,#2d15a3 49%,#191cbf 80%,#1d97cf 100%);}
+
 nav{
     background-color: rgb(62, 198, 247);
     width: 100%;
@@ -44,16 +48,24 @@ nav a:hover{
     text-align: center;
     width: 400px;
     border: 3px solid darkblue;
-    margin-left: 30%;
+    margin-left: 35%;
     background-color: rgb(246, 241, 235);
+    padding: 10px;
 }
-
+#intro{
+    color: white;
+}
 h1{
     font-family: 'Titan One', sans-serif;
 }
 
 h2{
     font-family: 'Calistoga', serif;
+}
+
+
+p{
+    font-family: 'Pontano Sans', sans-serif;
 }
 
 #img2{
@@ -64,6 +76,12 @@ h2{
     width: 260px ;
 }
 
+
+.cash{
+    font-family: 'Share Tech Mono', monospace;
+}
+
 footer{
  text-align: center;
+ color: white;
 }
