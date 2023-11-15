@@ -5,6 +5,7 @@ nav{
     text-align: center;
     font-size: 20px;
 }
+
 nav a{
   text-decoration: none;
   border: 3px solid darkblue;
@@ -12,6 +13,7 @@ nav a{
   color: white;
   padding: 10px;
 }
+
 ul{
     list-style: none;
     }
@@ -21,12 +23,41 @@ li{
     margin-bottom: 4%;
     padding: auto;
 }
+
 nav a:hover{
     background-color: white;
     color: darkblue;
 }
+
 #oreo_text{
     margin-top: 12px ;
     width: 200px;
     border-radius: 50%;
+}
+
+
+#intro{
+    text-align: center;
+}
+
+.product{
+    text-align: center;
+    width: 400px;
+    border: 3px solid darkblue;
+    margin-left: 30%;
+    background-color: rgb(246, 241, 235);
+}
+
+
+#img2{
+    width: 350px;
+}
+
+#img3{
+    width: 260px ;
+}
+
+footer{
+
+
 }
